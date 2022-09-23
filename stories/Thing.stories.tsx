@@ -3,7 +3,7 @@ import { Meta, Story } from '@storybook/react';
 import { Thing, Props } from '../src';
 
 const meta: Meta = {
-  title: 'Welcome test',
+  title: 'Welcome tessssst',
   component: Thing,
   argTypes: {
     children: {
